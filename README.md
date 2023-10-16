@@ -1,2 +1,2 @@
-# QR-code
-Frontend mentor challenge 1
+## QR-code
+This is a solution to the Frontend Mentor QR Code Challenge 
