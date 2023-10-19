@@ -30,25 +30,25 @@ body {
 
 .card-body {
 	text-align: center;
+	background-color: var(--white);
 }
 
 .order-card (
 	width: 25vw;
-	background-color: var(--white);
 	border-radius: 30px;
 	overflow: hidden;
+	font-size: 15px;
 )
 
 h1 {
-	text-align:center;
+	margin: 2rem auto 0;
 	color: black;
 	font-weight: 700;
 }
 
 
-P {
-	text-align:center;
+.qr-para {
+	margin-top: 0;
 	color: gray;
 	font-weight: 400;
-	font-size: 15px;
 }
