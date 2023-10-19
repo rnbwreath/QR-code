@@ -16,7 +16,7 @@ body {
 	width: 50vw;
 	height: 50vh;
 	max-width: 50%;
-	display: center;
+	display: flex;
 	justify-content: center;
 	align-items: center;
 	background-color: var(--light-gray);
@@ -24,7 +24,7 @@ body {
 }
 
 .image-qr-code {
-	width: 50px;
+	width: 50%;
 }
 
 .card-body {
