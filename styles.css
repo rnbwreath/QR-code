@@ -20,7 +20,6 @@ body {
 
 .order-card (
 	width: 20vw;
-	height: 50vh;
 	background-color: hsl(0, 0%, 100%);
 	overflow: hidden;
 )
