@@ -18,6 +18,10 @@ body {
 	background-color: hsl(212, 45%, 89%);
 }
 
+.image-qr-code {
+	width: 500px;
+}
+
 .order-card (
 	width: 20vw;
 	background-color: hsl(0, 0%, 100%);
