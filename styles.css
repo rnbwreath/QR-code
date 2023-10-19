@@ -9,9 +9,9 @@ body {
 }
 
 .card-container {
-	width: 50vw;
-	height: 50vh;
-	max-width: 50%;
+	width: 100vw;
+	height: 100vh;
+	max-width: 100%;
 	display: center;
 	justify-content: center;
 	align-items: center;
