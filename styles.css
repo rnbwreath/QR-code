@@ -35,7 +35,7 @@ body {
 .order-card (
 	width: 100vw;
 	background-color: var(--white);
-	border-radius: 15px;
+	border-radius: 30px;
 	overflow: hidden;
 )
 
