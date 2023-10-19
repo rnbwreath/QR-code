@@ -15,6 +15,7 @@ body {
 	display: center;
 	justify-content: center;
 	align-items: center;
+	background-color: hsl(212, 45%, 89%);
 }
 
 h1 {
@@ -28,4 +29,5 @@ P {
 	text-align:center;
 	color: gray;
 	font-weight: 400;
+	font-size: 15px;
 }
