@@ -34,10 +34,10 @@ body {
 }
 
 .order-card (
-	width: 25vw;
-	border-radius: 30px;
+	width: 20vw;
+	border-radius: 15px;
 	overflow: hidden;
-	font-size: 15px;
+	background-color: white;
 )
 
 h1 {
