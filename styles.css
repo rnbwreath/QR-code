@@ -2,20 +2,24 @@
 
 body {
 	background-color: white;
-	padding: 100;
-	margin: 100;
+	padding: 0;
+	margin: 0;
 	box-sizing: border-box;
 	font-family: 'Outfit', sans-serif;
+	--light-gray: hsl(212, 45%, 89%);
+
+	
 }
 
 .card-container {
-	width: 25vw;
-	height: 25vh;
-	max-width: 25%;
+	width: 100vw;
+	height: 100vh;
+	max-width: 100%;
 	display: center;
 	justify-content: center;
 	align-items: center;
-	background-color: hsl(212, 45%, 89%);
+	background-color: var(--light-gray);
+	background-size: 100% 60%;
 }
 
 .image-qr-code {
@@ -23,7 +27,7 @@ body {
 }
 
 .order-card (
-	width: 25vw;
+	width: 100vw;
 	background-color: hsl(0, 0%, 100%);
 	overflow: hidden;
 )
