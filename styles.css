@@ -13,9 +13,9 @@ body {
 }
 
 .card-container {
-	width: 100vw;
-	height: 100vh;
-	max-width: 100%;
+	width: 50vw;
+	height: 50vh;
+	max-width: 50%;
 	display: center;
 	justify-content: center;
 	align-items: center;
