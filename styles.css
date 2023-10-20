@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Outfit');
 
+/*body resides over the entire code*/
 html,
 body {
 	background-color: white;
@@ -12,7 +13,7 @@ body {
 	--grayish-blue: hsl(220, 15%, 55%);
 	--dark-blue: hsl(218, 44%, 22%);
 }
-
+/*card-container also resides over entire code*/
 .card-container {
 	width: 100vw;
 	height: 100vh;
@@ -24,12 +25,12 @@ body {
 	background-size: 100% 60%;
 	padding: 1rem;
 }
-
+/*image*/
 .image-qr-code {
 	width: 100%;
 	height: auto;
 }
-
+/*h1 & p*/
 .card-body {
 	text-align: center;
 	background-color: var(--white);
@@ -42,7 +43,7 @@ body {
 	padding: 1rem 0;
 }
 
-.order-card (
+.card (
 	width: 20vw;
 	border-radius: 15px;
 	overflow: hidden;
@@ -56,7 +57,7 @@ h1 {
 }
 
 
-.qr-para {
+.p {
 	margin-top: 0;
 	color: gray;
 	font-weight: 400;
