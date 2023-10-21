@@ -58,20 +58,23 @@ body {
 .card-body {
 	width: 100%;
 	height: auto;
-	color: black;
+	text-align: center;
+	transition: color .3s;
 }
 
-h1 {
-	margin: 2rem auto 0;
+.card-body h1{
+	line-height: 12px;
 	color: black;
 	font-weight: 700;
 }
 
 
-.p {
-	margin-top: 0;
-	color: gray;
+.card-body p{
+	margin-top: -10px;
+	font-size: .7rem;
+	color: grey;
 	font-weight: 400;
+	transition: color .3s;
 }
 
 @media (min-width: 375px) and (max-width: 600px) {
