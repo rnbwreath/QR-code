@@ -10,7 +10,6 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	font-family: 'Outfit', sans-serif;
 	--light-gray: hsl(212, 45%, 89%);
 	--white: hsl(0, 0%, 100%);
 	--grayish-blue: hsl(220, 15%, 55%);
@@ -60,6 +59,8 @@ body {
 	height: auto;
 	text-align: center;
 	transition: color .3s;
+	font-family: 'Outfit', sans-serif;
+	background: var(--white);
 }
 
 .card-body h1{
