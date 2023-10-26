@@ -23,7 +23,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	border-radius: 10px;
-	background-color: #B7C9E2;
+	background-color: var(--light-gray);
 	transition: width .5s ease-out, background-color .3s;
 }
 
