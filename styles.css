@@ -56,11 +56,11 @@ body {
 /*h1 & p*/
 .card-body {
 	width: 100%;
-	height: auto;
+	height: 80%;
 	text-align: center;
 	transition: color .3s;
 	font-family: 'Outfit', sans-serif;
-	background: var(--white);
+	background-color: var(--white);
 }
 
 .card-body h1{
