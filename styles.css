@@ -61,6 +61,7 @@ body {
 	transition: color .3s;
 	font-family: 'Outfit', sans-serif;
 	background: var(--white);
+	margin: 10;
 }
 
 .card-body h1{
