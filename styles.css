@@ -65,11 +65,19 @@ body {
 	background-color: var(--white);
 }
 
-.card-body {
+.card-body h1{
+	color: black;
+	font-weight: bold;
+	font-size: .7rem;
+	margin: 0 0 10px 0;
+}
+
+.card-body p{
 	font-size: .7rem;
 	color: grey;
 	font-weight: 400;
 	transition: color .3s;
+	margin: 0 0 10px 0;
 }
 
 @media (min-width: 375px) and (max-width: 600px) {
