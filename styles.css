@@ -53,17 +53,6 @@ body {
 	height: auto;
 }
 /*h1 & p*/
-.card-body {
-	width: 50%;
-	height: 50%;
-	margin-top: -10px;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-	transition: color .3s;
-	font-family: 'Outfit', sans-serif;
-	background-color: var(--white);
-}
 
 .card-title {
 	color: black;
