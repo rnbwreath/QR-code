@@ -58,6 +58,7 @@ body {
 	height: 80%;
 	text-align: center;
 	display: flex;
+	justify-content: center;
 	transition: color .3s;
 	font-family: 'Outfit', sans-serif;
 	background-color: var(--white);
