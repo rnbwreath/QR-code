@@ -65,14 +65,14 @@ body {
 	background-color: var(--white);
 }
 
-.card-body h1{
+.card-title {
 	color: black;
 	font-weight: bold;
 	font-size: .7rem;
 	margin: 0 0 10px 0;
 }
 
-.card-body p{
+.card-info {
 	font-size: .7rem;
 	color: grey;
 	font-weight: 400;
