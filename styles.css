@@ -34,7 +34,6 @@ body {
 	background-color: white;
 	box-shadow: 1px 4px 20px 1px #5555556c;
 	border-radius: 10px;
-	max-width: fit-content;
 	transition: background .5s;
 }
 
