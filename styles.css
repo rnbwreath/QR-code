@@ -36,15 +36,15 @@ body {
 	border-radius: 10px;
 	transition: background .5s;
 	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .card-image {
 	width: 50%;
 	height: 80px;
 	border-radius: 10px;
-	display: flex;
-	align-items: center;
-	justify-content: center;
 	transition: background-color .3s;
 	background-color: var(--white);
 	object-fit: contain;
