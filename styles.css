@@ -23,6 +23,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	border-radius: 10px;
+	max-width: fit-content;
 	background-color: var(--light-gray);
 	transition: width .5s ease-out, background-color .3s;
 }
