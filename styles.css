@@ -57,6 +57,12 @@ body {
 	margin: 0 0 10px 0;
 }
 
+.signature {
+	text-align:center;
+	font-size: 8px;
+	font-family: "Outfit";
+}
+
 @media (min-width: 375px) and (max-width: 600px) {
 	
 	.card-container {
