@@ -83,7 +83,7 @@ body {
 }
 
 .card-body p{
-	font-size: 10px;
+	font-size: .75rem;
 	color: var(--grayish-blue);
 	font-family: "Outfit";
 	margin: 10px 2.5px 10px 2.5px;
@@ -91,7 +91,7 @@ body {
 
 .footer p{
 	text-align:center;
-	font-size: 8px;
+	font-size: .75rem;
 	font-family: "Outfit";
 }
 
