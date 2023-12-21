@@ -63,6 +63,7 @@ body {
 	transition: background .5s;
 	margin-bottom: 2rem;
 	width: 200px;
+	height: 500px;
 }
 
 .card img{
