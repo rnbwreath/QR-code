@@ -75,7 +75,7 @@ body {
 
 .card-body h1{
 	color: var(--dark-blue);
-	font-weight: bold;
+	font-weight: 700;
 	font-family: "Outfit";
 	font-size: .9rem;
 	margin: 10px 0 10px 0;
