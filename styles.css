@@ -40,6 +40,7 @@ html,
 body {
 	margin: 0;
 	padding: 0;
+	min-height: 310px;
 	display: flex;
 	box-sizing: border-box;
 	flex-direction: column;
@@ -63,7 +64,6 @@ body {
 	transition: background .5s;
 	margin-bottom: 2rem;
 	width: 210px;
-	height: 310px;
 }
 
 .card img{
